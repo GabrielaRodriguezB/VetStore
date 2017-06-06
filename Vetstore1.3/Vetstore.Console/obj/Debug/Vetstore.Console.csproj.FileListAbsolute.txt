@@ -1,0 +1,90 @@
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.exe
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.pdb
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Entities.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Entities.pdb
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.pdb
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll.config
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.exe
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.exe.config
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.exe
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Entities.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Entities.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.exe
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.pdb
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.exe.config
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.exe
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Console.pdb
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.exe
+C:\Users\User\Desktop\Vetstore\Vetstore.Console\obj\Debug\Vetstore.Console.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\Vetstore.Console.exe.config
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\Vetstore.Console.exe
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\Vetstore.Console.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\obj\Debug\Vetstore.Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\obj\Debug\Vetstore.Console.exe
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Console\obj\Debug\Vetstore.Console.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\Vetstore.Console.exe.config
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\Vetstore.Console.exe
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\Vetstore.Console.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\obj\Debug\Vetstore.Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\obj\Debug\Vetstore.Console.exe
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Console\obj\Debug\Vetstore.Console.pdb
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Console.exe.config
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Console.exe
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Console.pdb
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\obj\Debug\Vetstore.Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\obj\Debug\Vetstore.Console.exe
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Console\obj\Debug\Vetstore.Console.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Console.exe.config
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Console.exe
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Console.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Entities.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Persistence.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Entities.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\obj\Debug\Vetstore.Console.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\obj\Debug\Vetstore.Console.exe
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Console\obj\Debug\Vetstore.Console.pdb

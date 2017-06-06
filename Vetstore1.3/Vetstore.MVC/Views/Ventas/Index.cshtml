@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Vetstore.Entities.Venta>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Atencion.AtencionId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Local.LocalId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MedioPago.MedioPagoId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Atencion.AtencionId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Local.LocalId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MedioPago.MedioPagoId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.VentaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.VentaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.VentaId })
+        </td>
+    </tr>
+}
+
+</table>

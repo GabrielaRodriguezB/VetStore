@@ -1,0 +1,45 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewBag.Title = "GALERIA";
+}
+<h2>@ViewBag.Title.</h2>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <link href="~/Content/style_1.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery.js"></script>
+
+</head>
+
+<body style="background-color:#d7d7d7;margin:auto">
+
+    <div id="wowslider-container1">
+        <div class="ws_images">
+            <ul>
+                <li><img src="~/Imagen/Dog.jpg"  alt="Peluqueria" title="Peluqueria" id="wows1_0" /></li>
+                <li><img src="~/Imagen/Dog1.jpg"  alt="Atencion Medica" title="Atencion Medica" id="wows1_1" /></li>
+                <li><img src="~/Imagen/Dog2.jpg"  alt="jquery slider" title="Revisiones" id="wows1_2" /></a></li>
+                <li><img src="~/Imagen/Dog3.jpg"  alt="Operaciones" title="Operaciones" id="wows1_3" /></li>
+            </ul>
+        </div>
+        <div class="ws_bullets">
+            <div>
+
+                <a href="#" title="Operaciones"><span><img src="~/Imagen/Dog.jpg" alt="Operaciones" />4</span></a>
+                <a href="#" title="Peluqueria"><span><img src="~/Imagen/Dog1.jpg" alt="Peluqueria" />1</span></a>
+                <a href="#" title="Atencion Medica"><span><img src="~/Imagen/Dog2.jpg" alt="Atencion Medica" />2</span></a>
+                <a href="#" title="Revisiones"><span><img src="~/Imagen/Dog3.jpg" alt="Revisiones" />3</span></a>
+            </div>
+        </div>
+        <div class="ws_shadow"></div>
+    </div>
+    <script src="~/Scripts/wowslider.js"></script>
+    <script src="~/Scripts/script.js"></script>
+
+</body>
+</html>

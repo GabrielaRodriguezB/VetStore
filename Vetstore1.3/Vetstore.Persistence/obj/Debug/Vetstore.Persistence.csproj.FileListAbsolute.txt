@@ -1,0 +1,97 @@
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll.config
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.pdb
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Entities.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Entities.pdb
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Entities.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Entities.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.Migrations.Initial.resources
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.Migrations.Initial.resources
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.Migrations.Initial.resources
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.Migrations.Initial.resources
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.Migrations.Initial.resources
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll.config
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Persistence.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Entities.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\Vetstore.Entities.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.Migrations.Initial.resources
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.csproj.GenerateResource.Cache
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Persistence\obj\Debug\Vetstore.Persistence.Migrations.gabiesgenial.resources

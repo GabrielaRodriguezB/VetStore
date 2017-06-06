@@ -1,0 +1,43 @@
+﻿@model Vetstore.Entities.Distrito
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Distrito</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Provincia.ProvinciaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Provincia.ProvinciaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ubigeo.UbigeoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ubigeo.UbigeoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UbigeoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UbigeoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.DistritoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

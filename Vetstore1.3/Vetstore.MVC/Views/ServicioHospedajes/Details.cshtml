@@ -1,0 +1,35 @@
+﻿@model Vetstore.Entities.ServicioHospedaje
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ServicioHospedaje</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Atencion.AtencionId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atencion.AtencionId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tecnico.TecnicoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tecnico.TecnicoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ServicioId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

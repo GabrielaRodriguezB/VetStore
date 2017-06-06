@@ -1,0 +1,43 @@
+﻿@model Vetstore.Entities.Venta
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Venta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Atencion.AtencionId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atencion.AtencionId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Local.LocalId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Local.LocalId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MedioPago.MedioPagoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MedioPago.MedioPagoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.VentaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

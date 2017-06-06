@@ -1,0 +1,43 @@
+﻿@model Vetstore.Entities.Ubigeo
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ubigeo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProvinciaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProvinciaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DepartamentoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DepartamentoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DistritoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DistritoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.UbigeoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,31 @@
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Entities\bin\Debug\Vetstore.Entities.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Entities\bin\Debug\Vetstore.Entities.pdb
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.dll
+c:\users\user\documents\visual studio 2017\Projects\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Entities\bin\Debug\Vetstore.Entities.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Entities\bin\Debug\Vetstore.Entities.pdb
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.dll
+C:\Users\MSI\Desktop\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore\Vetstore.Entities\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Entities\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore\Vetstore.Entities\obj\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Entities\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Entities\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Entities\obj\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia\Vetstore.Entities\obj\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Entities\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Entities\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Entities\obj\Debug\Vetstore.Entities.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Entities\obj\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.1 - copia1\Vetstore.Entities\obj\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Entities\bin\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Entities\bin\Debug\Vetstore.Entities.pdb
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Entities\obj\Debug\Vetstore.Entities.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Entities\obj\Debug\Vetstore.Entities.dll
+C:\Users\User\Desktop\Vetstore1.3\Vetstore.Entities\obj\Debug\Vetstore.Entities.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Entities\bin\Debug\Vetstore.Entities.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Entities\bin\Debug\Vetstore.Entities.pdb
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Entities\obj\Debug\Vetstore.Entities.dll
+C:\Users\Clase\Downloads\Vetstore1.3\Vetstore.Entities\obj\Debug\Vetstore.Entities.pdb
